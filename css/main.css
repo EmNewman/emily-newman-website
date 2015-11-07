@@ -1,0 +1,40 @@
+/* main.css */
+
+
+
+.nav a {
+    color: #5a5a5a;
+    font-size: 12px;
+    font-weight: bold;
+    padding: 14px 10px;
+
+}
+.nav li {
+    display: inline;
+}
+
+
+.jumbotron {
+    height: 400px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url("background.jpg");
+
+}
+
+.jumbotron .container {
+    position: relative;
+    text-align: center;
+    color: #ffffff;
+    text-shadow: 
+    -1px -1px 0 #5D5D5D
+
+
+}
+
+.jumbotron .container .thumbnail {
+    width: 150px;
+    height: 150px;
+    display: inline-block;
+}
+
